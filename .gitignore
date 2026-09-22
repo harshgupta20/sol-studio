@@ -1,0 +1,42 @@
+# dependencies
+node_modules/
+.pnp.*
+
+# build output
+.next/
+out/
+dist/
+build/
+next-env.d.ts
+*.tsbuildinfo
+
+# env & secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+*.pem
+id.json
+**/keypairs/
+**/.solana-keypair.json
+
+# database & runtime data
+data/
+*.db
+*.db-journal
+*.sqlite
+
+# logs
+*.log
+npm-debug.log*
+
+# editor / os
+.DS_Store
+.vscode/
+.idea/
+
+# test / coverage
+coverage/
+.vitest/
+
+# scratch project roots created by the agent during demos
+.agent-sandbox/
