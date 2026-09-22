@@ -2,6 +2,9 @@
 
 **An AI-powered GitHub engineering workspace that runs entirely in your browser.**
 
+<img width="1865" height="1056" alt="Screenshot From 2026-09-22 20-16-31" src="https://github.com/user-attachments/assets/3810227b-530c-41d7-bbc7-48bbf3d2026d" />
+
+
 > **No backend ever sees your code, your repo, or your keys.**
 > A Next.js app (deployable to Vercel as-is) serves the UI; the engineering
 > workspace runs entirely in your browser. GitHub is the source of truth. The AI
